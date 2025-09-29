@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Tanishq Sharma
 
 🎯 **Aspiring Data Analyst | Beginner in Data Visualization & Analytics**  
 
